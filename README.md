@@ -21,3 +21,9 @@ Then there was the preparation map which shows what I should be doing when. Very
 Then we get to how to answer behavioral questions, the different types of BQs, what I should ask the interviewer at the end to showcase interest, knowledge and genuine curiosity. Then the part on how to respond to behavioral questions. Focusing on myself and what part I played is crucial. I was of the belief that that would come across arrogant and egotistic, but apparently not. Makes sense, I’m the one being interviewed not my team. Then how to prepare my stories for technical projects and situations in general. There’s a nice grid given which I can refer to when preparing the story. You first give a nugget which set up exactly what the story is about instead of just starting the story. Then you do S.A.R which is situation action and result. Make situation and result brief and action long and detailed. Make sure it shows your qualities like empathy and leadership and all that good stuff. 
 
 ![image](https://user-images.githubusercontent.com/47910500/174464938-c023e75d-90d8-400a-a53f-91a45cdf46cc.png)
+
+<b> Day 4 </b>
+Started by reviewing the concepts of learning I learned in the course Learning how to Learn. Then started with learning about big O notation and time complextiy. Found a great explanation video on youtube by freecodecamp: https://www.youtube.com/watch?v=Mo4vesaut8g&ab_channel=freeCodeCamp.org
+
+<b> Day 5 </b>
+Continued Learning about Big O, and also followed along while coding to understand better. Have to repeat and practice the concepts a few times for them to stick though, so review what you learned the days before before you start learning something new. It will take less time each time you review, and will make sure you retain the information better. Learned today about O(log n) using binarySearch and O(n log n) using mergeSort
